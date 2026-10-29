@@ -1,0 +1,7 @@
+name: dashboard-design-patterns
+description: Design dashboards with patterns, genres, tradeoffs, process.
+version: 0.1.0
+invocation:
+  auto: true
+  user: true
+dependencies: []
